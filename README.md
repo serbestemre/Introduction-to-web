@@ -1,2 +1,2 @@
 # Introduction-to-web
-Source codes are implemented when I started learning web programming and those codes are just basic examples.
+Here I am going to put some basic examples that are implemented by myself while I'm learning web programming from a udemy course.
