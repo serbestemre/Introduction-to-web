@@ -1,0 +1,27 @@
+td{
+	width: 100px;
+	height: 100px;
+}
+
+#center_top_bottom{
+	border-right: solid;
+	border-right-width:2px; 
+	border-left: solid;
+	border-left-width: 2px;
+}
+
+#center{
+	border-width: 2px;
+	border-style: solid;
+}
+
+#corners_top_bottom{
+	border-bottom-width: 2px;
+	border-bottom-style:solid;
+	border-top-width: 2px;
+	border-top-style: solid;
+}
+h1{
+	text-align: center;
+
+}
